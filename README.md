@@ -1,4 +1,4 @@
-# InterpoladorLinearApp
+# Interpolador Linear App
 
 This is a simple App to calc Linear Interpolation built in C#.
 
